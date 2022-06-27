@@ -126,16 +126,6 @@
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"
         },
         {
-            "key": "csp_xpath_saohuo",
-            "name": "骚火",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://cdn.staticaly.com/gh/tvba/x/main/saohuo.json"
-        },
-        {
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光(B)",
             "type": 3,
@@ -144,16 +134,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a00-lgyy.js"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_libvio",
-            "name": "libvio(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
         },
         {
             "key": "csp_XBiubiubiubiu_cokemv",
@@ -196,26 +176,6 @@
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
         },
         {
-            "key": "csp_XBiubiubiubiu_city",
-            "name": "city(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/city.js"
-        },
-        {
-            "key": "csp_biubiu_特狗影视",
-            "name": "特狗(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"
-        },
-        {
             "key": "csp_biubiu_瓜皮TV",
             "name": "瓜皮(B)",
             "type": 3,
@@ -225,16 +185,6 @@
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a11-gptv.js"
         },
-        {
-            "key": "csp_biubiu_晗剧",
-            "name": "晗剧(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a14-hanju.js"
-        },   
         {
             "key": "csp_xpath_hhys",
             "name": "火火",
