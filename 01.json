@@ -77,14 +77,54 @@
             "ext": "https://gitea.com/99/x/raw/branch/main/zxzj.js"
         },
         {
-            "key": "csp_XBiubiubiubiu_lmys",
-            "name": "蓝莓(B)",
+            "key": "csp_xpath_hhys",
+            "name": "火火",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/99/x/raw/branch/main/604-huohuo.js"
+        },      
+        {
+            "key": "csp_xpath_网络搜集库108",
+            "name": "小熊",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/99/x/raw/branch/main/519-xiaoxiong.json"
+        },
+        {
+            "key": "csp_biubiu_维奇动漫",
+            "name": "维奇",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_ysgc",
+            "name": "工厂(B)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
+        },
+        {
+            "key": "csp_biubiu_瓜皮TV",
+            "name": "瓜皮(B)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a11-gptv.js"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -115,56 +155,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_ysgc",
-            "name": "工厂(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
-        },
-        {
-            "key": "csp_biubiu_瓜皮TV",
-            "name": "瓜皮(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a11-gptv.js"
-        },
-        {
-            "key": "csp_xpath_hhys",
-            "name": "火火",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/604-huohuo.js"
-        },      
-        {
-            "key": "csp_xpath_网络搜集库108",
-            "name": "小熊",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-xiaoxiong.json"
-        },
-        {
-            "key": "csp_biubiu_维奇动漫",
-            "name": "维奇",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
