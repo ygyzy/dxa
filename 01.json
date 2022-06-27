@@ -3,7 +3,7 @@
     
         {
             "key": "csp_77",
-            "name": "七七🏀",
+            "name": "七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -12,7 +12,7 @@
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
-            "name": "虎牙🎤",
+            "name": "虎牙",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -22,7 +22,7 @@
         },
         {
             "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷🏀",
+            "name": "球迷",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -32,7 +32,7 @@
         },
         {
             "key": "csp_xpath_A33",
-            "name": "MTV🎸",
+            "name": "MTV",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -42,7 +42,7 @@
         },
         {
             "key": "csp_CZSPP",
-            "name": "厂长🐞",
+            "name": "厂长",
             "type": 3,
             "api": "csp_CZSPP",
             "searchable": 1,
@@ -51,7 +51,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "低端🐞",
+            "name": "低端",
             "type": 3,
             "api": "csp_DiDuan",
             "searchable": 1,
@@ -60,7 +60,7 @@
         },
         {
             "key": "csp_Cokemv",
-            "name": "Coke🐞",
+            "name": "Coke",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -69,7 +69,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_蓝光影视",
-            "name": "蓝光🐞",
+            "name": "蓝光",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -79,7 +79,7 @@
         },
         {
             "key": "csp_GitCafe",
-            "name": "纸条📃",
+            "name": "纸条",
             "type": 3,
             "api": "csp_GitCafe",
             "searchable": 1,
@@ -88,14 +88,13 @@
         },
         {
             "key": "csp_AliPanSou",
-            "name": "猫搜😻",
+            "name": "猫搜",
             "type": 3,
             "api": "csp_AliPanSou",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
         },
-
         {
             "key": "csp_xpath_网络搜集库112",
             "name": "工人",
@@ -206,8 +205,6 @@
             "filterable": 0,
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/city.js"
         },
-
-
         {
             "key": "csp_biubiu_特狗影视",
             "name": "特狗(B)",
@@ -228,8 +225,6 @@
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a11-gptv.js"
         },
-
-
         {
             "key": "csp_biubiu_晗剧",
             "name": "晗剧(B)",
@@ -239,16 +234,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a14-hanju.js"
-        },
-        {
-        "key":"csp_xpath_乐猪TV",
-        "name": "乐猪TV",
-        "type": 3,
-        "api": "csp_XPathMac",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/lezhutv.json"
         },   
         {
             "key": "csp_xpath_hhys",
@@ -259,8 +244,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitea.com/99/x/raw/branch/main/604-huohuo.js"
-        },
-       
+        },      
         {
             "key": "csp_xpath_网络搜集库108",
             "name": "小熊",
