@@ -1,17 +1,6 @@
 
 {
   "sites": [
-
-    {
-      "key": "csp_Kuaikan",
-      "name": "快看(SP)",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-  
     {
       "key": "csp_Kunyu77",
       "name": "七七(SP)",
@@ -20,8 +9,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-   
+    }, 
     {
       "key": "csp_Cokemv",
       "name": "Cokemv(SP)",
@@ -66,8 +54,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-  
+    }, 
     {
       "key": "csp_IKan",
       "name": "爱看(SP)",
@@ -86,7 +73,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_BBB",
       "name": "哔哩套餐",
@@ -96,17 +82,43 @@
       "quickSearch": 0,
       "filterable": 1
     },
-
     {
-      "key": "9E03",
-      "name": "9E03(V2)",
+      "key": "csp_Kuaikan",
+      "name": "快看(SP)",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
+      "filterable": 1
     },
+    {
+            "key":"csp_GitCafe",
+            "name": "小纸条",
+            "type":3,
+            "api":"csp_GitCafe",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+    },
+    {
+            "key":"csp_AliPanSou",
+            "name": "喵狸盘搜(只支持搜索)",
+            "type":3,
+            "api":"csp_AliPanSou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+    },
+    {
+            "key":"csp_biubiu_真不卡cerrd",
+            "name": "真不卡(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%9C%9F%E4%B8%8D%E5%8D%A1cerrd%28ns%29.json"
+    },   
     {
       "key": "300看世界",
       "name": "300看世界(V2)",
@@ -128,15 +140,15 @@
       "ext": "https://app.zteys.com/api.php/v1.vod"
     },
     {
-     "key": "爱酷",
-     "name": "爱酷(V2)",
-     "type": 3,
+      "key": "爱酷",
+      "name": "爱酷(V2)",
+      "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
-     },
+    },
 
     {
       "key": "csp_biubiu_ysgc",
@@ -168,7 +180,6 @@
       "filterable":0,
       "ext":"https://kvymin.github.io/CatVod/XBiubiu/dmxq.json"
     },
-
     {
       "key": "push_agent",
       "name": "推送",
@@ -561,5 +572,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/02.jar"
+    "spider":"https://gitea.com/dxa/1/raw/branch/main/0630.jar",
+    //"spider": "https://gitea.com/dxa/1/raw/branch/main/02.jar"
 }
