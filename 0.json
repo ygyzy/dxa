@@ -11,28 +11,10 @@
             "filterable": 1
         },  
         {
-            "key": "csp_IKan",
-            "name": "爱看",
-            "type": 3,
-            "api": "csp_IKan",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1
-        },   
-        {
             "key":"厂长影视",
             "name": "厂长影视",
             "type":3,
             "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"csp_Kuaikan",
-            "name": "快看",
-            "type":3,
-            "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -47,15 +29,6 @@
             "filterable":1
         },
         {
-            "key":"Auete",
-            "name": "Auete",
-            "type":3,
-            "api":"csp_Auete",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key": "csp_Cokemv",
             "name": "Cokemv",
             "type": 3,
@@ -65,22 +38,22 @@
             "filterable": 1
         },   
         {
-            "key":"Lib",
-            "name": "Libvio",
+            "key": "csp_IKan",
+            "name": "爱看",
+            "type": 3,
+            "api": "csp_IKan",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },   
+        {
+            "key":"csp_Kuaikan",
+            "name": "快看",
             "type":3,
-            "api":"csp_Lib",
+            "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "zxzj",
-            "name": "在线之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key":"360",
@@ -90,16 +63,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
         },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
@@ -130,6 +93,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
         },
         {
             "key": "剧白白",
@@ -252,13 +225,14 @@
             "ext":"dcbc975ad0684eb5a498ecd1836272e6"
         },
         {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "key":"push_agent",
+            "name":"推送",
+            "type":3,
+            "api":"csp_PushAgent",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"27b06d5221a24199b15f2e573d847430"
         }
     ],
        "lives": [
