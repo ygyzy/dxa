@@ -149,16 +149,6 @@
             "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
-            "key": "csp_biubiu_蓝光影院",
-            "name": "蓝光影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/lgyy.json"
-        },
-        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(XB)",
             "type": 3,
@@ -169,6 +159,36 @@
             "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
         },
         {
+            "key": "csp_biubiu_蓝光影院",
+            "name": "蓝光影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/lgyy.json"
+        },
+        {
+            "key":"csp_biubiu_剧白白",
+            "name": "剧白白(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/jbb.json"
+        },
+        {
+            "key":"csp_biubiu_达达龟",
+            "name": "达达龟(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
+        },
+        {
             "key": "csp_XBiubiubiubiu_ysgc",
             "name": "影视工厂(XB)",
             "type": 3,
@@ -177,7 +197,17 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/ysgc.json"
-        },        
+        },
+        {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
+        },
         {
             "key": "csp_biubiu_555电影",
             "name": "555电影(XB)",
@@ -199,16 +229,6 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
         },
         {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
-        },
-        {
             "key":"csp_biubiu_爱港剧",
             "name": "爱港剧(XB)",
             "type":3,
@@ -228,26 +248,6 @@
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/zbk.json"
         },   
-        {
-            "key":"csp_biubiu_剧白白",
-            "name": "剧白白(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/jbb.json"
-        },
-        {
-            "key":"csp_biubiu_达达龟",
-            "name": "达达龟(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
-        },
         {
             "key": "csp_biubiu_厂长资源",
             "name": "厂长资源(XB)",
@@ -297,6 +297,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
+            "key":"csp_xpath_bttoo",
+            "name": "两个变态(XP)",
+            "type":3,
+            "api":"csp_XPath",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/bttop.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -368,16 +378,6 @@
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/dm84.json"
         },    
-        //{
-        //    "key":"csp_xpath_bttoo",
-        //    "name": "两个变态(XP)",
-        //    "type":3,
-        //    "api":"csp_XPath",
-        //    "searchable":0,
-        //    "quickSearch":0,
-        //    "filterable":0,
-        //    "ext":"https://gitea.com/dxa/6/raw/branch/main/bttop.json"
-        //},
         {
             "key": "csp_xpath_网络搜集库qiumi",
             "name": "球迷看球(XPF)️️️",
