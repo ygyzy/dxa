@@ -121,15 +121,6 @@
             "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"
         },
         {
-            "key":"csp_Nbys",
-            "name": "泥巴(需翻墙)",
-            "type":3,
-            "api":"csp_Nbys",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key": "Gitcafe",
             "name": "小纸条",
             "type": 3,
@@ -148,16 +139,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":""
-        },
-        {
-            "key":"AliPS",
-            "name": "盘搜(仅搜索)",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
             "key":"csp_xpath_bttoo",
