@@ -65,6 +65,15 @@
             "filterable":1
         },
         {
+            "key": "Nfyun",
+            "name": "Nfyun(爬虫)",
+            "type": 3,
+            "api": "csp_Nfyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key":"csp_Auete",
             "name": "Auete(爬虫)",
             "type":3,
@@ -178,16 +187,16 @@
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/jbb.json"
         },
-        //{
-        //    "key":"csp_biubiu_达达龟",
-        //    "name": "达达龟(XB)",
-        //    "type":3,
-        //    "api":"csp_XBiubiu",
-        //    "searchable":1,
-        //    "quickSearch":1,
-        //    "filterable":0,
-        //    "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
-        //},
+        {
+            "key":"csp_biubiu_达达龟",
+            "name": "达达龟(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
+        },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
             "name": "影视工厂(XB)",
@@ -348,16 +357,16 @@
             "filterable":1,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
         },
-        //{
-        //    "key":"csp_xpath_ddg",
-        //    "name": "达达龟(XPF)",
-        //    "type":3,
-        //    "api":"csp_XPathMacFilter",
-        //    "searchable":1,
-        //    "quickSearch":1,
-        //    "filterable":1,
-        //    "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
-        //},
+        {
+            "key":"csp_xpath_ddg",
+            "name": "达达龟(XPF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
+        },
         {
             "key": "剧白白",
             "name": "剧白白(XPF)",
